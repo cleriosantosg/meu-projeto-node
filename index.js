@@ -3,7 +3,7 @@ const app = express();
 
 
 app.get("/", (req, res) => {
-  res.send("Bem-vindo ao servidor de super-heróis!");
+  res.send("Bem-vindo ao servidor de super-heróis da DC e Marvel!");
 });
 
 
